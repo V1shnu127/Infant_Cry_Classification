@@ -16,3 +16,4 @@ DL Classifier: CNN
 **NOTE**: The dataset consists of .wav files which have undergone audio segmentation of 2 seconds to increase the size of the dataset for better analysis.
 
 ![**Functional Block Diagram of the Project**](./block_diagram_CNN_ICC.jpg)
+**Functional Block Diagram of the Project**

@@ -1,7 +1,7 @@
 # Speech Emotion Recognition
 SER using cepstral features: MFCC, LFCC, GFCC
 
-Dataset used: RAVDESS<br>
+Dataset used: RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)<br>
 DL Classifier: CNN
 
 **Mel Frequency Cepstral Coefficients (MFCC)**: MFCC is used to replicate human auditory perception by applying the Mel scale, which is non-linearly spaced—denser at lower frequencies and more spread out at higher frequencies. It extracts vocal tract characteristics by applying a logarithmic filterbank, emphasizing speech phonetics over pitch information.

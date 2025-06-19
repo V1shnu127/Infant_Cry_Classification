@@ -26,9 +26,9 @@ def count_wav_files(root_dir):
     return True, total_wav_files
 
 directories = [
-    "/kaggle/input/segmented-bc2ttv-split/train",
-    "/kaggle/input/segmented-bc2ttv-split/test",
-    "/kaggle/input/segmented-bc2ttv-split/val"
+    "/kaggle/input/segmented_BC2_TTV/train",
+    "/kaggle/input/segmented_BC2_TTV/test",
+    "/kaggle/input/segmented_BC2_TTV/val"
 ]
 
 overall_total = 0

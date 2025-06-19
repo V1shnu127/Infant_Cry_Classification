@@ -1,6 +1,6 @@
 	              PERFORMANCE METRICS	
 		       2-class	8-class
-MFCC	Accuracy	0.8969	0.8245
+MFCC	Accuracy	**0.8969**0.8245
 	F1 Score	0.8591	0.65
 	Precision	0.9098	0.6621
 	Recall	        0.8303	0.6779

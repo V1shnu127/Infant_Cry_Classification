@@ -12,4 +12,6 @@ DL Classifier: CNN
 **Gammatone Frequency Cepstral Coefficients (GFCC)**: GFCC employs gammatone filterbanks that mimic the human cochlear response, allowing it to capture both formant and pitch information. It is particularly robust to noise, making it highly effective for speech enhancement, speaker recognition etc. GFCC excels at identifying fine-grained spectral details, especially in noisy environments, making it a valuable feature extraction method for challenging acoustic conditions.
 
 
+**NOTE**: The dataset consists of .wav files which have undergone audio segmentation of 2 seconds to increase the size of the dataset for better analysis.
+
 ![**Functional Block Diagram of the Project**](./block_diagram_CNN_ICC.jpg)

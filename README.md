@@ -17,6 +17,8 @@ DL Classifier: CNN
 
 
 **NOTE**: The dataset consists of .wav files which have undergone audio segmentation of 2 seconds to increase the size of the dataset for better analysis.
+The cepstral features are extracted from the repository: [Click Here](https://github.com/V1shnu127/Cepstral_feature_extraction)
+Audio Data Segmentation of the dataset: [Click Here](https://raw.githubusercontent.com/V1shnu127/Audio-Data-Segmentation/refs/heads/main/audio_data_SEGMENT.py)
 
 ![**Functional Block Diagram of the Project**](./block_diagram_CNN_ICC.jpg)
 **Functional Block Diagram of the Project**
